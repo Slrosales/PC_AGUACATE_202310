@@ -1,4 +1,20 @@
-# PC_AGUACATE_202310
+<div align="center">
+  <h1>
+    Proyecto Computacional "PC_AGUACATE_202310"
+  </h1>
+
+  
+   <h4>
+     Estructuras Discretas Uninorte
+   </h4>
+
+ [![GitHub](https://img.shields.io/badge/by-Slrosales-red)](https://github.com/Slrosales)
+ [![GitHub](https://img.shields.io/badge/by-Rubens1414-green)](https://github.com/Rubens1414)
+     
+</div>
+
+
+# 
 
 Las funciones generadoras ordinarias es una serie de potencias cuyos coeficientes corresponden a los términos de una secuencia, lo que permite transformar problemas con secuencias en problemas con funciones. Por su parte, el método simbólico proporciona definiciones básicas que permiten definir estructuras combinatorias. Por lo tanto, el trabajo consistió en el estudio de las funciones generadoras ordinarias y su aplicación en problemas de conteo y análisis combinatorio.
 
